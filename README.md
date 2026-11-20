@@ -7,7 +7,7 @@
   <br> <p>
     <a href="https://cubexmine.dev"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"></a>
     <a href="https://git.crafterpika.cc/kittentm"><img src="https://img.shields.io/badge/Forgejo-orange?style=for-the-badge&logo=forgejo&logoColor=white" alt="Forgejo"></a>
-    <a href="https://git.spbr.net/kitten"><img src="https://img.shields.io/badge/SPBR%20Forgejo%20profile-orange?style=for-the-badge&logo=forgejo&logoColor=white" alt="SPBR Forgejo Profile"></a>
+    <a href="https://source.mystiko.ink/kitten"><img src="https://img.shields.io/badge/Mystiko%20Gitlab%20profile-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="Mystiko Gitlab Profile"></a>
     <a href="https://github.com/KittenTM"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
     <a href="https://gitlab.com/kittenn"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
     <a href="https://x.com/cubexmine"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
